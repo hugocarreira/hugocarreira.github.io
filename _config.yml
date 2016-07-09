@@ -27,5 +27,6 @@ gems:
 - jekyll-paginate
 - jekyll-sass-converter
 - sass
+- jekyll-seo-tag
 exclude:
 - vendor
