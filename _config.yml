@@ -1,0 +1,31 @@
+---
+title: hugocarreira.me
+email: hugo.colombo23@gmail.com
+author: hugocarreira
+author_github: hugocarreira
+description: |
+  apenas o meu blog! :)
+baseurl: "/"
+url: http://hugocarreira.me/
+paginate: 12
+github:
+  user: hugocarreira
+  repository: my-blog
+  url: http://hugocarreira.me/
+  status: false
+home_bgfile: bg.jpg
+sass:
+  sass_dir: assets/css
+  style: compressed
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+gems:
+- jekyll-paginate
+- jekyll-paginate
+- jekyll-sass-converter
+- sass
+exclude:
+- vendor
