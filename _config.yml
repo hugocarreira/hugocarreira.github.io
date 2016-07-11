@@ -6,7 +6,7 @@ author_github: hugocarreira
 description: |
   apenas o meu blog! :)
 baseurl: "/"
-url: http://hugocarreira.me/
+url: http://hugocarreira.me
 paginate: 12
 github:
   user: hugocarreira
