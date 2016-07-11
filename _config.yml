@@ -11,7 +11,7 @@ paginate: 12
 github:
   user: hugocarreira
   repository: my-blog
-  url: http://hugocarreira.me
+  url: http://hugocarreira.me/
   status: false
 home_bgfile: bg.jpg
 sass:
