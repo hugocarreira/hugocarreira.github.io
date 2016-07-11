@@ -6,6 +6,7 @@ author_github: hugocarreira
 description: |
   apenas o meu blog! :)
 baseurl: "/"
+permalink: :title
 url: http://hugocarreira.me
 paginate: 12
 github:
