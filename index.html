@@ -31,7 +31,7 @@ layout: default
         <ul class="collection with-header">
           <li class="collection-header">
             <div>
-              <a class="post-link teal-text post-title" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
+              <a class="post-link teal-text post-title" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
               <div class="right post-meta secondary-content post-date">{{ post.date | date: "%-d de %b de %Y" }}</div>
             </div>
           </li>
@@ -59,6 +59,6 @@ layout: default
     </div>
 
     <div class="container">
-      <p class="rss-subscribe right-align teal-text">subscribe <a href="{{ site.url }}feed.xml">via RSS</a></p>
+      <p class="rss-subscribe right-align teal-text">subscribe <a href="{{ site.github.url }}feed.xml">via RSS</a></p>
     </div>
 </div>
