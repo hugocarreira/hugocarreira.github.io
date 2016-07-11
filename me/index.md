@@ -1,11 +1,11 @@
 ---
-title: About Me
+title: Sobre mim
 layout: about
 draft: false
 
 ---
-#### Who am I?
-Hello, my name is Hugo Carreira, I'm from Rio de Janeiro, I have 18 years and Computer Science course at University Veiga de Almeida.
+#### Quem sou eu?
+Olá, me chamo Hugo Carreira, sou do Rio de Janeiro, tenho 19 anos e curso Ciência da Computação na Universidade Veiga de Almeida.
 
-#### What do I do?
-At the moment I am web development intern at [ArteDigital Internet](http://www.artedigitalinternet.com.br). And in his spare time writing code to myself, everything is in my [Github](http://github.com/hugocarreira).
+#### O que eu faço?
+No momento sou estágiario de desenvolvimento web na [ArteDigital Internet](http://www.artedigitalinternet.com.br). E nas horas vagas escrevo códigos pra mim mesmo, tudo fica no meu [Github](http://github.com/hugocarreira).
