@@ -10,9 +10,9 @@ description: git commit -m 'sejam todos bem-vindos ao meu blog'
 
 Primeiro post do blog, ihuul! \o/
 
-Primeiramente para quem não me conhece, entra [aqui](/me/pt-br) que tem um resuminho sobre mim.
+Primeiramente para quem não me conhece, entra [aqui](/me) que tem um resuminho sobre mim.
 
-Então, eu sempre tive vontade de ter um blog onde eu escreveria sobre as coisas que aprendo, meus projetos pessoas, os projetos em meu estágio, mas na correria eu meio que deixei essa ideia de lado. Porém não desisti dela, só coloquei no fundo da gaveta, de onde eu tiraria quando chegasse a hora certa.
+Então, eu sempre tive vontade de ter um blog onde eu escreveria sobre as coisas que aprendo, meus projetos pessoais, os projetos em meu estágio, mas na correria, eu meio que deixei essa ideia de lado. Porém não desisti dela, só coloquei no fundo da gaveta, de onde eu tiraria quando chegasse a hora certa.
 
 E essa hora chegou! :)
 
