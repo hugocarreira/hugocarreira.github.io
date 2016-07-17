@@ -34,7 +34,7 @@ Chegando o grande dia, fui para a faculdade de manhã cedo, levei a roupa para a
 
 A entrevista era à tarde, então deu tempo de eu sair da aula sem pressa e ir para o local, mas mesmo assim eu cheguei lá BEM cedo. Como eu não sabia muito bem como ir, preferi chegar cedo do que me atrasar. Chegar atrasado para uma entrevista de estágio não deve pegar muito bem né?
 
-**A ENTREVISTA**
+**A ENTREVISTA**  
 *Não sei porque, mas eu sempre quis fazer isso. Colocar um tom de suspense nas coisas... hahaha*
 
 No local, ocorreu até uma coisa engraçada, quando eu cheguei e me apresentei para uma entrevista de estágio, eu fui parar na sala errada. A empresa fica dentro de um coworking e nesse mesmo dia estava tendo uma seleção de estágio para o Greenpeace. Eu sei que eu entrei numa sala onde tinham outras candidatos e tinha uma moça apresentando algo, parei para ver o que ela estava falando e vi que eu tinha entrado no lugar errado, não tinha nada a ver com Programação PHP, com isso chamei o rapaz que me encaminhou para essa sala e informei que não era ali onde eu deveria estar. Foi uma situação engraçada, eu todo envergonhado para falar com ele, quase que virei estagiário do Greenpeace KKKKKK 
