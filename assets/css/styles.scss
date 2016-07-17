@@ -9,10 +9,6 @@ $teal: #009688;
   padding: 0;
 }
 
-strong {
-  font-weight: 600;
-}
-
 nav {
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -57,6 +53,10 @@ section {
             margin-bottom: 2em;
             line-height: 2;
             letter-spacing: .01rem;
+        }
+        
+        strong {
+          font-weight: 600;
         }
     }
 }
