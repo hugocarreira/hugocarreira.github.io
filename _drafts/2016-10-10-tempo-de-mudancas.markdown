@@ -30,11 +30,11 @@ Troquei de estágio.
 
 
 
-Brincadeiras à parte, vou explicar sobre isso. Depois de aproximadamente 1 ano e 4 meses estagiando como desenvolvedor na [Arte Digital](http://www.artedigitalinternet.com.br), cheguei ao consenso de que ali eu não estava conseguindo agregar mais conhecimento e com isso resolvi buscar outro lugar. Por sorte, não demorou muito e consegui uma nova vaga, mas é aí que ocorre a grande mudança.
+Brincadeiras a parte, vou explicar sobre isso. Depois de aproximadamente 1 ano e 4 meses estagiando como desenvolvedor na [Arte Digital](http://www.artedigitalinternet.com.br), cheguei ao consenso de que ali eu não estava conseguindo agregar mais conhecimento e com isso resolvi buscar outro lugar. Por sorte, não demorou muito e consegui uma nova vaga, mas é aí que ocorre a grande mudança.
 
 
 *Só pra recapitular rapidinho.
-Iniciei minha vida de programação com C/C++ e depois de um bom tempo de console application, casei de tela preta e resolvi buscar algo mais visual, nisso conheci o C#, o estudei bastante e curti muito, mas o mundo gira e não sei como fui parar no PHP, virei usuário GNU/Linux (*tela preta SIM; ironias do destino*) e assim seguia minha vida.*
+Iniciei minha vida de programação com C/C++ e depois de um bom tempo de console application, cansei de tela preta e resolvi buscar algo mais visual, nisso conheci o C#, o estudei bastante e curti muito, mas o mundo gira e não sei como fui parar no PHP, virei usuário GNU/Linux (*tela preta SIM; ironias do destino*) e assim seguia minha vida.*
 
 Agora voltando. A vaga que passei é pra estágiario desenvolvedor na [Capemisa Seguradora](http://www.capemisa.com.br), e por isso irei mudar algumas rotinas em my life.
 
