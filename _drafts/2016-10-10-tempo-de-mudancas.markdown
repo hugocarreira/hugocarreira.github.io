@@ -42,7 +42,7 @@ Na Capemisa irei usar ASP.Net MVC em plataforma da Microsoft no desenvolvimento.
 
 Estou grato demais com essas mudanças, por eu ainda estar na faculdade, acho que estou no melhor momento pra arriscar e mudar. Ter uma oportunidade pra agregar um conhecimento diferente, usá-lo no dia a dia e ver isso atingir, positivamente, outras pessoas, eu recomendo.
 
-Não tenho muito o que dizer ainda por estar no início, mas pretendo lá pra frente falar algo mais sobre isso. Espero que dê tudo certo, torçam por mim!
+Não tenho muito o que dizer por ainda estar no início, mas pretendo lá pra frente falar algo mais sobre isso. Espero que dê tudo certo, torçam por mim!
 
 
 *Uma coisinha que quero colocar aqui no blog, seguindo um pouco o que o mago [Willian Justen](https://willianjusten.com.br/) já faz, em todo post vou compartilhar com vocês algo sobre a escrita dele (música, local, alguma observação). Porque acho que isso é um forma de eu me conectar um pouco mais com vocês.*
