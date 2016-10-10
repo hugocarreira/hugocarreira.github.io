@@ -4,7 +4,7 @@ layout: default
 
 ---
 <div class="section">
-  <section class="fixed v80" style='display: block; background-image: url("assets/images/{{ site.home_bgfile  }}");'>
+  <section class="fixed v80" style='display: block; background-image: url("assets/images/{{ site.home_bgfile  }} ");'>
     <div class="container container-wide container-header">
       <br><br>
       <div class="white-text z-depth-5 radius-border opacity-background title-shadow">
@@ -49,7 +49,7 @@ layout: default
         {% else %}
           <li class="waves-effect"><i class="material-icons">chevron_left</i></li>
         {% endif %}
-          <li class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</li>
+          <li class="page_number">Página: {{ paginator.page }} de {{ paginator.total_pages }}</li>
         {% if paginator.next_page %}
           <li class="waves-effect"><a href="{{ paginator.next_page_path | site.github.url }}" ><i class="material-icons">chevron_right</i></a></li>
         {% else %}
@@ -59,6 +59,6 @@ layout: default
     </div>
 
     <div class="container">
-      <p class="rss-subscribe right-align teal-text">subscribe <a href="{{ site.github.url }}feed.xml">via RSS</a></p>
+      <p class="rss-subscribe right-align teal-text"><a href="{{ site.github.url }}feed.xml">se inscreva via RSS</a></p>
     </div>
 </div>

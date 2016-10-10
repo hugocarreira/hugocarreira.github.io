@@ -1,5 +1,7 @@
 ---
 - title: home
-  url: 
+  url:
 - title: sobre
-  url: me
+  url: sobre
+- title: contato
+  url: contato

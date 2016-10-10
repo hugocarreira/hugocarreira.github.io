@@ -2,7 +2,7 @@
 title: hugocarreira.me
 email: hugo.colombo23@gmail.com
 author: hugocarreira
-author_github: hugocarreira
+author_github: Hugo Carreira
 description: |
   apenas o meu blog! :)
 baseurl: "/"
@@ -14,7 +14,7 @@ github:
   repository: my-blog
   url: http://hugocarreira.me/
   status: false
-home_bgfile: bg.jpg
+home_bgfile: bg2.jpg
 sass:
   sass_dir: assets/css
   style: compressed
