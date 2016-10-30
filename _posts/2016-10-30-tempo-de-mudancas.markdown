@@ -4,7 +4,7 @@ title: "Tempo de Mudança"
 date: "2016-10-30 15:46:14 -0200"
 author: Hugo Carreira
 slug: tempo-de-mudanca
-description: a vida é feita de mudanças e aqui vou contar a minha versão sobre elas
+description: A vida é feita de mudanças e aqui vou contar a minha versão sobre uma delas
 ---
 
 Inicialmente queria pedir desculpas pelo sumiço, sei que teve uma galera que curtiu a post sobre [O meu primeiro estágio](http://hugocarreira.me/o-meu-primeiro-estagio) e quer ler a continuação, porém eu queria intercalar a segunda parte com algum outro post, mas fiquei sem imaginação e acabou que deixei o blog um pouco de lado. Enfim, estou com o intuito de voltar a escrever, quero manter uma marca de **1 post a cada 15 dias**, sempre com assuntos variados porém que tenham a ver com a área de tecnologia da informação.  
