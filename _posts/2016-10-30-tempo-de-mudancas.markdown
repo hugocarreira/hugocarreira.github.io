@@ -36,9 +36,9 @@ Brincadeiras a parte, vou explicar sobre isso. Depois de aproximadamente 1 ano e
 *Só para recapitular rapidinho.
 Iniciei minha vida de programação com C/C++ e depois de um bom tempo de console application, cansei de tela preta e resolvi buscar algo mais visual, nisso conheci o C#, o estudei bastante e curti muito, mas o mundo gira e não sei como fui parar no PHP, virei usuário GNU/Linux (*tela preta SIM; ironias do destino*) e assim seguia minha vida.*
 
-Agora voltando. A vaga que passei é para estágiario desenvolvedor na [Capemisa Seguradora](http://www.capemisa.com.br), e por isso irei mudar algumas rotinas em my life.
+Agora voltando. A vaga que passei é para estagiário desenvolvedor na [Capemisa Seguradora](http://www.capemisa.com.br), e por isso irei mudar algumas rotinas em my life.
 
-Na Capemisa irei usar ASP.Net MVC em plataforma da Microsoft no desenvolvimento. Antes que pensem que estou achando isso ruim, muito pelo contrário, sou estágiario, uma oportunidade dessa de aprender coisas novas é absurdamente gratificante.  
+Na Capemisa irei usar ASP.Net MVC em plataforma da Microsoft no desenvolvimento. Antes que pensem que estou achando isso ruim, muito pelo contrário, sou estagiário, uma oportunidade dessa de aprender coisas novas é absurdamente gratificante.  
 
 Estou grato demais com essas mudanças, por eu ainda estar na faculdade, acho que estou no melhor momento para arriscar e mudar. Ter uma oportunidade para agregar um conhecimento diferente, usá-lo no dia a dia e ver isso atingir, positivamente, outras pessoas, eu recomendo.
 
