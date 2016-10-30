@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tempo de Mudança"
-date: "2016-10-39 15:45:06 -0300"
+date: "2016-10-30 15:46:14 -0200"
 author: Hugo Carreira
 slug: tempo-de-mudanca
 description: a vida é feita de mudanças e aqui vou contar a minha versão sobre elas
