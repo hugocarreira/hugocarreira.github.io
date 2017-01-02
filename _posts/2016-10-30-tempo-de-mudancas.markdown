@@ -7,7 +7,7 @@ slug: tempo-de-mudanca
 description: A vida é feita de mudanças e aqui vou contar a minha versão sobre uma delas
 ---
 
-Inicialmente queria pedir desculpas pelo sumiço, sei que teve uma galera que curtiu a post sobre [O meu primeiro estágio](http://hugocarreira.me/o-meu-primeiro-estagio) e quer ler a continuação, porém eu queria intercalar a segunda parte com algum outro post, mas fiquei sem imaginação e acabou que deixei o blog um pouco de lado. Enfim, estou com o intuito de voltar a escrever, quero manter uma marca de **1 post a cada 15 dias**, sempre com assuntos variados porém que tenham a ver com a área de tecnologia da informação.  
+Inicialmente queria pedir desculpas pelo sumiço, sei que teve uma galera que curtiu a post sobre [O meu primeiro estágio](http://hugocarreira.me/o-meu-primeiro-estagio) e quer ler a continuação, porém eu queria intercalar a segunda parte com algum outro post, mas fiquei sem imaginação e acabou que deixei o blog um pouco de lado.  
 
 Sem mais delongas, agora vamos para a parte boa.  
 
@@ -49,6 +49,6 @@ Não tenho muito o que dizer por ainda estar no início, mas lá para frente pre
 
 Então seguindo essa lógica:
 
-Escrevi esse post ouvindo uma playlist de Gangsta Rap, coisa fina, para quem quiser o [link](https://open.spotify.com/user/12143253096/playlist/1ERK4RMbCYTq9z6VSmo1Qr) e, por último e não menos importante, comendo um lindo smashed burguer (*recomendo procurarem sobre essa técnica*), dobro de carne, dobro de queijo, bacon, tudo de bom num lugar só.
+Escrevi esse post ouvindo uma playlist de Gangsta Rap, coisa fina, para quem quiser o [link](https://open.spotify.com/user/12143253096/playlist/1ERK4RMbCYTq9z6VSmo1Qr). ;)
 
 Isso é tudo pessoal, até o próximo episódio.
