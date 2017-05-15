@@ -17,7 +17,7 @@ Para começar falar sobre as mudanças, vou iniciar dizendo sobre background nov
 
 Outra mudança também relacionada ao blog é que estou desenvolvendo, *para fins de aprendizado*, um boilerplatezinho para automatizar algumas coisas aqui. Ainda está bem simples, mas a ideia é algo ter "pronto" para criar um blog. Terá os arquivos básicos do Jekyll com um layout padrão e algumas tasks para automatizar o processo de build, junto com o gulp-gh-pages para fazer o deploy. Não vai ser nada muito grande, mas já estou usando aqui no hugocarreira.me e gostando bastante. Eu ainda não o subi nos arquivos porque pretendo criar um repositório só para ele em breve.
 
-*Sei que já existes outros geradores e boilerplates que fazer a mesma coisa, mas quero ter um MEU e estou fazendo principalmente para aprendizado*.
+*Sei que já existes outros geradores e boilerplates que fazem a mesma coisa, mas quero ter um MEU e estou fazendo principalmente para aprendizado*.
 
 Agora vou parar de enrolar e dizer a grande mudança. A que fez eu reviver o blog e ter ideia e animação para escrever algo novamente...
 
