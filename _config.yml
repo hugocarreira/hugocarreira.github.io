@@ -1,5 +1,5 @@
 ---
-title: hugocarreira.me
+title: hugocarreira - person blog
 email: hugo.colombo23@gmail.com
 author: hugocarreira
 author_github: Hugo Carreira
@@ -7,12 +7,12 @@ description: |
   apenas o meu blog! :)
 baseurl: "/"
 permalink: :title
-url: http://hugocarreira.me
+url: http://hugocarreira.github.io
 paginate: 12
 github:
   user: hugocarreira
   repository: my-blog
-  url: http://hugocarreira.me/
+  url: http://hugocarreira.github.io/
   status: false
 home_bgfile: bg2.jpg
 sass:
